@@ -1,0 +1,24 @@
+{
+  "name": "vscode-web-dev-pack",
+  "displayName": "Web Dev Pack",
+  "description": "Personally selected web dev plugins~",
+  "icon": "res/logo.png",
+  "author": "mefengl",
+  "publisher": "mefengl",
+  "repository": "https://github.com/mefengl/vscode-web-dev-pack",
+  "private": true,
+  "license": "MIT",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "stivo.tailwind-fold",
+    "meganrogge.template-string-converter",
+    "developer2006.svg-gallery",
+    "dbaeumer.vscode-eslint"
+  ]
+}
