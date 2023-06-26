@@ -18,7 +18,8 @@
   "extensionPack": [
     "stivo.tailwind-fold",
     "meganrogge.template-string-converter",
-    "developer2006.svg-gallery",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "figma.figma-vscode-extension",
+    "developer2006.svg-gallery"
   ]
 }
