@@ -2,6 +2,12 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.3] - 2023-07-05
+
+### Added
+
+- Added i18n-ally extension.
+
 ## [0.0.2] - 2023-06-26
 
 ### Added
