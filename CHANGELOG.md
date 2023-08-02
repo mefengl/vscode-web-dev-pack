@@ -2,6 +2,12 @@
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 2023-08-02
+
+### Added
+
+- Added headwind extension.
+
 ## [0.0.3] - 2023-07-05
 
 ### Added
